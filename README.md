@@ -9,6 +9,7 @@ Papers relevant to this problem are added :
 - Paper introducing IMFDB dataset 
 - Paper explaining Viola-Jones algorithm for real-time object detection
 
+
 ## Experiments to try :
 
 - [DONE] Deep CNNs with and w/o Dropout
