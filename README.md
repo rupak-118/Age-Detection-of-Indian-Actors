@@ -14,9 +14,10 @@ Papers relevant to this problem are added :
 
 - [DONE] Deep CNNs with and w/o Dropout
 - [DONE] Deep CNNs, Dropout + Data augmentation
-- Ensembles of deep CNNs
-- Implementation of face detection algorithms (Viola-Jones, HoG etc.)
-- Using principles of semantic segmentation (R-CNN etc.)
+- [DONE] Autoencoders for denoising
+- [DONE] Using advanced activation layers in Keras (PReLU, ELU, LeakyReLU)
+- CNN with SVM loss function at the top
 - Pre-trained models
+- Implementation of face detection algorithms (Viola-Jones, HoG etc.)
 
 
